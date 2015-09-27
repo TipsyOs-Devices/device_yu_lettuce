@@ -10,13 +10,13 @@
     "branch": "lp5.1"
   },
   {
-    "repository": "Cyanogenmod/kernel_cyanogen_msm8916",
+    "repository": "TEAM-RAZOR-DEVICES/kernel_cyanogen_msm8916",
     "target_path": "kernel/cyanogen/msm8916",
-    "branch": "cm-12.1"
+    "branch": "lp5.1"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_yu",
+    "repository": "TEAM-RAZOR-DEVICES/proprietary_vendor_yu",
     "target_path": "vendor/yu",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   }
 ]
