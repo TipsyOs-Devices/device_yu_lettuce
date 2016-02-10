@@ -19,6 +19,7 @@ rild.libpath=/system/vendor/lib64/libril-qc-qmi-1.so
 
 ro.com.android.mobiledata=false
 ro.telephony.default_network=9,1
+ro.telephony.ril.config=simactivation
 
 # relax sensor fusion mag field filter
 ro.fusion.magfield.max=250
