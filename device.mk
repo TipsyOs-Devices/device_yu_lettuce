@@ -72,8 +72,8 @@ PRODUCT_PACKAGES += \
     libhealthd.lettuce
 
 # Doze mode
-#PRODUCT_PACKAGES += \
-#    YUDoze
+PRODUCT_PACKAGES += \
+    YUDoze
 
 # GPS
 PRODUCT_PACKAGES += \
